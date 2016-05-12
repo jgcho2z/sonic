@@ -1,8 +1,8 @@
 # sonic
+## 개요 
+ * 초음파를 송출하거나 탐지하는 라이브러리를 이용하는 방법에 대한 연구
 
- * http://stackoverflow.com/questions/7604011/how-can-i-get-frequency-data-from-pcm-using-fft
- * http://introcs.cs.princeton.edu/java/97data/FFT.java
- * http://introcs.cs.princeton.edu/java/97data/Complex.java.html
- * [help.md]
+## links
+ * [links](links.md)
 
 
